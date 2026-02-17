@@ -36,9 +36,10 @@ Arrays Problems:
 30. Product of Array Except Self
 Given an array, return a new array where each element is the product of all elements except itself.
 Do not use division.
-
 Input: [1,2,3,4]
 Output: [24,12,8,6]
+
+
 31. Find Equilibrium Index: Find an index such that sum of elements on left = sum on right.
 32. Find Maximum Product Pair: Find two elements whose product is maximum.
 33. Find Maximum Difference (j > i)
