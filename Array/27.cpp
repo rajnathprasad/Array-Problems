@@ -1,5 +1,7 @@
 // 27. Find the First Missing Positive: Find the smallest positive integer missing in the array.
-
+#include<vector>
+// #include<iostrem>
+using namespace std;
 class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
